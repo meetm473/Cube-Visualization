@@ -17,7 +17,7 @@ A python based application to visualize how various sensor fusion algorithms wor
 	```
 	
 #### Demo
-![demo-gif](some-gif)
+![demo-gif](https://github.com/meetm473/Cube-Visualization/blob/master/demo.gif)
 
 > Note: The ReferenceCodes folder contains code that implements various functionalities of the application independently.
 
@@ -60,7 +60,7 @@ def fusionAlgo:
 ```
 
 
-[1]:link-andyIMU-repo
+[1]:https://github.com/meetm473/AndyIMU
 [2]:https://wiki.python.org/moin/TkInter
 [3]:https://wiki.python.org/moin/PyOpenGL
 [4]:https://pypi.org/project/pygame/
